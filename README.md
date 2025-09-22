@@ -1,6 +1,6 @@
 # Regional Sales Data Analysis (2014–2018)
 
-> **Note:** This project was built while following a YouTube tutorial to practice MySQL and Power BI for HR data analysis. The goal was to understand the concepts and apply them. Any modifications or experiments I made are my own.
+> **Note:** This project was built while following a YouTube tutorial to practice Python for data analysis. The goal was to understand the concepts and apply them. Any modifications or experiments I made are my own.
 
 # Overview
 
