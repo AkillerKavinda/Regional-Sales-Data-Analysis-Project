@@ -62,7 +62,7 @@ Larger bubbles in the upper-right quadrant show high-value, high-margin, high-or
 
 ### Correlation Heatmap  
 ![Correlation Heatmap](Images/correlation-heatmap.png)  
-Revenue strongly correlates with order quantity (0.90) and unit price (0.79). Profit rises with revenue (0.87).
+Revenue is strongly linked to both order quantity and unit price—indicating that larger orders and higher prices drive more sales.
 
 ## Key Insights
 
