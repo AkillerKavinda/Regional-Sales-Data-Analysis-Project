@@ -1,5 +1,9 @@
 # Regional Sales Data Analysis (2014–2018)
 
+> **Note:** This project was built while following a YouTube tutorial to practice MySQL and Power BI for HR data analysis. The goal was to understand the concepts and apply them. Any modifications or experiments I made are my own.
+
+# Overview
+
 This project explores Acme Co.'s sales data from 2014 to 2018 to uncover actionable insights across products, customers, channels, and regions. The goal is to inform strategic decisions around pricing, promotions, and market expansion.
 
 ## Files
